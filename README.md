@@ -3,9 +3,9 @@
 
 ![ProDB-kit Logo](./src/assets/database-icon.svg)
 
-Pro DB kit enables teams to manage database access without involving DB Admins / Devops / IT teams. It allows developers and their managers ( Team Lead, Engineering Managers etc. ) to grant access to the databases they have access to without any intervention from any of the teams administering databases.
+Nowadays, watching a movie or a tv program with relatives is uncommon and everyone has their own preferences. As a result, people like to watch movies/shows on their phones or computers. 
 <br/>
-The goal is to reduce the dependency on Devops / IT teams for granting access to databases and thus enabling them to channelise their energies to more productive tasks at the same time the developers can get access to the systems they need to without going through the vicious cycle of approvals and escalations.
+Presenting BINGEFLIX as a solution to the above problem as an Over-the-top (OTT) platform which provides video and audio content streaming and viewing service for short films, motion pictures, documentaries, and web series.
 
 <br/>
 
