@@ -1,8 +1,6 @@
 # Bingeflix
 [![Netlify Status](https://)](https:/)
 
-![ProDB-kit Logo](./src/assets/database-icon.svg)
-
 Nowadays, watching a movie or a tv program with relatives is uncommon and everyone has their own preferences. As a result, people like to watch movies/shows on their phones or computers. 
 <br/>
 Presenting BINGEFLIX as a solution to the above problem as an Over-the-top (OTT) platform which provides video and audio content streaming and viewing service for short films, motion pictures, documentaries, and web series.
@@ -29,7 +27,6 @@ Please Note:
 
 1. We recommend using this app in Google Chrome
 2. Use the app on Laptop/desktop only as of now.
-3. We are using Auth0 for authentication, so for recruiter login, please don't use Safari, as it blocks third-party cookies.
 
 <br/>
 Test Credentials:
@@ -50,13 +47,13 @@ Test Credentials:
 
 # Technology Stack
 
-We tried to use a completely modern tech stack while testing out some new technologies that we had never used before. This resulted in a fast, performant, and easily-extensible web app that should be fairly future-proof for the coming next several years. We used:
+We attempted to employ an entirely contemporary tech stack while experimenting with some novel, unexplored technologies. As a result, a quick, effective, and easily extensible web application was created, which should make it very future-proof for the next few years. Here's what We used:
 
-- [Ant design](https://ant.design/)
-- [Redux toolkit](https://redux-toolkit.js.org/)
-- [Lodash](https://lodash.com/)
 - [Axios](https://axios-http.com/docs/intro)
-- [React Query](https://react-query.tanstack.com/)
+- [NodeJs](https://react-query.tanstack.com/)
+- [JWT](https://jwt.io/)
+- [Firebase](https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CMG90LXdkfsCFcjM1AodKEAO1w)
+- [Express](https://expressjs.com/)
 
 <br/>
 
