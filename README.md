@@ -1,21 +1,66 @@
-# Pesto Assignments
+# Bingeflix
+[![Netlify Status](https://)](https:/)
 
-Welcome to Pesto assignments.
+Nowadays, watching a movie or a tv program with relatives is uncommon and everyone has their own preferences. As a result, people like to watch movies/shows on their phones or computers. 
+<br/>
+Presenting BINGEFLIX as a solution to the above problem as an Over-the-top (OTT) platform which provides video and audio content streaming and viewing service for short films, motion pictures, documentaries, and web series.
 
+<br/>
 
-## How to solve assignments
+# Table of Contents
 
-Weekly Assignments will be shared by your mentor or instructor.
+1. [Demo](#demo)
+2. [Installation](#installation)
+3. [Technology Stack](#technology-stack)
+4. [Authors](#authors)
+5. [License](#license)
 
-Make sure master or main branch is protected and you are not able to push any code directly to master.
+<br/>
 
-- Clone this repo to your local.
-- Checkout to new branch for submission. Suggestion you can name new branch week wise - branch for week 1 assignment can be week1
-```bash
-git checkout -b week1
-```
-- Create Assignment week folder in root directory(if it doesn't exist) for eg. for solving week 1 assignment create folder with name "week1".
-- You can create subfolders in main week(week1) folder if required.
-- Add proper readme [(How to Write proper readme](https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) )in week's folder or subfolder explaining about assignment, how to run assignment and any other instructions. 
-- Raise a PR against master and add your mentor as reviewer
-- Resolve PR comments if any and once your mentor approves your PR, Merge it.
+# Demo
+
+[Live Demo](https://bingeflix-pesto.herokuapp.com/)
+
+<br/>
+
+Please Note:
+
+1. We recommend using this app in Google Chrome
+2. Use the app on Laptop/desktop only as of now.
+
+<br/>
+Test Credentials:
+
+- For Admin
+  - Email: test@user.io
+  - Password: test-user@pass
+
+<br/>
+
+# Installation
+
+- Fork or directly clone this repository to your local machine
+- Use the `npm install` command to install dependencies
+- Once the dependencies are finished installing, use the `npm start` command inside the root directory to open the app in your local browser of choice
+
+<br/>
+
+# Technology Stack
+
+We attempted to employ an entirely contemporary tech stack while experimenting with some novel, unexplored technologies. As a result, a quick, effective, and easily extensible web application was created, which should make it very future-proof for the next few years. Here's what We used:
+
+- [Axios](https://axios-http.com/docs/intro)
+- [NodeJs](https://react-query.tanstack.com/)
+- [JWT](https://jwt.io/)
+- [Firebase](https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CMG90LXdkfsCFcjM1AodKEAO1w)
+- [Express](https://expressjs.com/)
+
+<br/>
+
+# Authors
+
+- [Abhijeet](https://github.com)
+- [Payas](https://github.com)
+- [Sumita](https://github.com)
+
+<br/>
