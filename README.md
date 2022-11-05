@@ -19,7 +19,7 @@ Presenting BINGEFLIX as a solution to the above problem as an Over-the-top (OTT)
 
 # Demo
 
-[Live Demo](https:/)
+[Live Demo](https://bingeflix-pesto.herokuapp.com/)
 
 <br/>
 
